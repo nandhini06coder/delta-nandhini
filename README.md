@@ -1,2 +1,2 @@
 # delta-nandhini
-this is a delta project~
+this is a delta project.~
